@@ -1,7 +1,8 @@
 # Code-Snippets
 Repository containing useful code snippets for use across various projects
 
-
+### Argparse.py
+Allows for the use of arguments inline.  Displays the use of boolean, integer and string arguments.  Useful for projects which would benefit with a straightforward inline menu system.
 
 
 
